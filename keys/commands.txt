@@ -1,0 +1,2 @@
+CertStoreLocation Cert:\LocalMachine\My -DnsName "safevote.local" -FriendlyName "Safe Vote local" -NotAfter (Get-Date).AddYears(10)
+CertStoreLocation Cert:\LocalMachine\My -DnsName "secure.safevote.local" -FriendlyName "Safe Vote Secure endpoints local" -NotAfter (Get-Date).AddYears(10)

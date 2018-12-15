@@ -1,0 +1,15 @@
+{
+  "name": "safevote-ws",
+  "version": "1.0.0",
+  "description": "Website code for the savevote system",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kote Isaev",
+  "license": "ISC",
+  "dependencies": {
+    "koa": "^2.6.2",
+    "koa-router": "^7.4.0"
+  }
+}
